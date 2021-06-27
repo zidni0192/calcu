@@ -1,0 +1,7 @@
+.default_button{
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 10px 25px;
+    font-size: 20pt;
+    cursor: pointer;
+}
